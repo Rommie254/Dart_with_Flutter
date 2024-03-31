@@ -39,7 +39,7 @@ class Person {
   String nationality;
   String phone_brand;
 
-  // Constructor--initializes the properties of the class
+  // Constructor--initializes the properties of the class (parametized constructor)
   Person(this.name, this.phone, this.isMarried, this.age, this.hobby,
       this.nationality, this.phone_brand);
 
